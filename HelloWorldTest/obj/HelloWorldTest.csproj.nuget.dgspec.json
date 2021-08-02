@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nadia\\Downloads\\HelloWorldTestTutor\\HelloWorldTest\\HelloWorldTest.csproj": {}
+    "C:\\Users\\marnu\\Documents\\GitHub\\HelloWorldTutor\\HelloWorldTestTutor\\HelloWorldTest\\HelloWorldTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nadia\\Downloads\\HelloWorldTestTutor\\HelloWorldTest\\HelloWorldTest.csproj": {
+    "C:\\Users\\marnu\\Documents\\GitHub\\HelloWorldTutor\\HelloWorldTestTutor\\HelloWorldTest\\HelloWorldTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nadia\\Downloads\\HelloWorldTestTutor\\HelloWorldTest\\HelloWorldTest.csproj",
+        "projectUniqueName": "C:\\Users\\marnu\\Documents\\GitHub\\HelloWorldTutor\\HelloWorldTestTutor\\HelloWorldTest\\HelloWorldTest.csproj",
         "projectName": "HelloWorldTest",
-        "projectPath": "C:\\Users\\nadia\\Downloads\\HelloWorldTestTutor\\HelloWorldTest\\HelloWorldTest.csproj",
-        "packagesPath": "C:\\Users\\nadia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nadia\\Downloads\\HelloWorldTestTutor\\HelloWorldTest\\obj\\",
+        "projectPath": "C:\\Users\\marnu\\Documents\\GitHub\\HelloWorldTutor\\HelloWorldTestTutor\\HelloWorldTest\\HelloWorldTest.csproj",
+        "packagesPath": "C:\\Users\\marnu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marnu\\Documents\\GitHub\\HelloWorldTutor\\HelloWorldTestTutor\\HelloWorldTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nadia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
